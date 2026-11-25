@@ -1,0 +1,41 @@
+{
+  "n_questions": 25,
+  "results": {
+    "naive_chunking": {
+      "n_chunks": 10,
+      "keyword": {
+        "hit@1": 0.76,
+        "hit@3": 0.96,
+        "mrr": 0.863
+      },
+      "vector": {
+        "hit@1": 0.84,
+        "hit@3": 1.0,
+        "mrr": 0.92
+      },
+      "hybrid": {
+        "hit@1": 0.92,
+        "hit@3": 1.0,
+        "mrr": 0.96
+      }
+    },
+    "structure_aware_chunking": {
+      "n_chunks": 17,
+      "keyword": {
+        "hit@1": 0.76,
+        "hit@3": 0.88,
+        "mrr": 0.813
+      },
+      "vector": {
+        "hit@1": 0.92,
+        "hit@3": 1.0,
+        "mrr": 0.96
+      },
+      "hybrid": {
+        "hit@1": 0.8,
+        "hit@3": 0.92,
+        "mrr": 0.87
+      }
+    }
+  }
+}
