@@ -2,7 +2,7 @@
 
 Upload PDFs, Word files or text, ask questions in plain English, and get answers that **cite the exact passages** they came from. If the answer isn't in the documents, it says so instead of guessing.
 
-**Live demo:** _add your Streamlit Cloud link here_ · **Stack:** Python, ChromaDB, all-MiniLM-L6-v2 embeddings (ONNX), BM25, LangChain text splitters, Groq (Llama 3.3 70B) with Gemini fallback, Streamlit
+**Live demo:** [aadeharshk-doclens-rag-app-amj0er.streamlit.app](https://aadeharshk-doclens-rag-app-amj0er.streamlit.app) · **Stack:** Python, ChromaDB, all-MiniLM-L6-v2 embeddings (ONNX), BM25, LangChain text splitters, Groq (Llama 3.3 70B) with Gemini fallback, Streamlit
 
 ## Results
 
